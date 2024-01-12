@@ -1,0 +1,3 @@
+[submodule "pls"]
+	path = pls
+	url = git@github.com:Madjerov/pls.git
